@@ -1,0 +1,155 @@
+.cardss{
+    color: black;
+    cursor: pointer;
+    font-size: 16px;
+    text-decoration: none;
+    transition: color 0.25s ease 0s;
+    transition-property: color;
+    transition-duration: 0.25s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+       
+    
+}
+
+
+.carda{
+ 
+    background: rgb(255, 255, 255);
+    border-radius: 8px;
+    box-shadow: rgb(0 0 0 / 8%) 0px 0px 0px;
+    transition: box-shadow 500ms ease 0s, opacity 500ms ease 0s, z-index 0ms ease-out 500ms;
+    cursor: pointer;
+    opacity: 0.9;
+    margin-bottom: 0px;
+    margin-top: -1px;
+    display: flex;
+    width: 100%;
+    padding: 24px;
+    white-space: nowrap;
+    border: none;
+}
+a:hover{
+    text-decoration: none;
+    box-shadow:  
+    0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072),
+    0 41.8px 33.4px rgba(0, 0, 0, 0.086),
+    0 100px 80px rgba(0, 0, 0, 0.12)
+  
+}
+
+
+.td{
+    padding: 50px;
+  
+}
+
+.logo{
+    margin: 5px;
+}
+
+
+.abb{
+    color: rgb(188, 181, 181);
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+}
+
+.number{
+    color: red;
+}
+
+table td{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+
+}
+
+.las{
+      padding-right: 300px;
+}
+
+.second{
+    margin-top: 20px;
+    padding-left: 100px;
+}
+
+.earn{
+    width:30px
+}
+
+
+.sdq{
+    margin-left: 400px;
+
+    font-size: 20px;
+color:green}
+
+
+.firstheading{
+    letter-spacing: 0.1em;
+    margin-top:100px;
+    margin-left: 100px;
+
+}
+
+.Secondheading{
+    margin-top: 20px;
+    margin-left: 200px;
+    font-size: 5%;
+    color: rgb(188, 181, 181);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: lighter;
+
+}
+
+.secondpart{
+    margin: 70px;
+    margin-top: 70px;
+    
+}
+
+.svg1{
+    margin-right: 5px;
+    margin-bottom: 5px;
+    border: 1px solid white;
+    padding: 10px;
+    background-color: white;
+    border-radius: 50px; 
+    box-shadow:  0 2.8px 2.2px rgba(0, 0, 0, 0.034),
+    0 6.7px 5.3px rgba(0, 0, 0, 0.048),
+    0 12.5px 10px rgba(0, 0, 0, 0.06),
+    0 22.3px 17.9px rgba(0, 0, 0, 0.072)
+
+
+}
+
+.neighbour{
+    margin-left: 80px;
+}
+
+.neibouringimg{
+    margin-left: 10px;
+}
+
+.placement{
+    margin-bottom:50px ;
+}
+
+.line{
+    border-style: solid;
+    border-width: 0.03em;
+    border-color: rgb(225, 217, 217);
+    margin-bottom: 20px;
+}
+
+.push{
+
+    padding-right: 500px;
+}

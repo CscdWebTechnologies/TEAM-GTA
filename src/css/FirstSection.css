@@ -1,0 +1,22 @@
+
+.heading11{
+    margin-left: 300px;
+    margin-bottom: 70px;
+    }
+
+.headingsmall{
+    color: lightgray;
+    margin-left: 150px;
+    margin-top: 20px;
+    font-size: 100%;
+}
+
+.box{
+    border:1px solid red;
+    width: 300px;
+}
+
+
+.control{
+    margin: 50px;
+}
