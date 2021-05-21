@@ -1,0 +1,25 @@
+
+.img{
+    height:20px;
+    width: 112px;
+}
+
+
+.nav2{
+    font-size: 14px;
+    font-family: Graphik, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-weight: 500;
+    line-height: 16px;
+    color: rgb(5, 15, 25);
+    text-align: center;
+}
+
+
+.totalnav{
+   border-bottom: 1px solid rgb(236, 239, 241);
+   margin-bottom: 100px;
+}
+
+.firstul{
+    margin: 10px auto 10px auto;
+}

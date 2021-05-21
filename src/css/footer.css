@@ -1,0 +1,36 @@
+.sel {
+  margin: 20px;
+  width: 170px;
+ border: 1px solid whitesmoke;
+ padding: 7px;
+}
+
+
+
+.footer{
+
+   margin: 70px 30px 0px 150px;
+}
+
+li{
+  list-style-type: none;
+}
+li > a{
+
+  color:  rgb(188, 181, 181);
+  font-size: 18px;
+  margin: 2px;
+}
+
+.con{
+  margin-top:-180px ;
+   width: 800px;
+ 
+   margin-left: 650px;
+}
+
+.adp>a{
+  color:  rgb(188, 181, 181);
+  font-size: 18px;
+  margin: 2px;
+}

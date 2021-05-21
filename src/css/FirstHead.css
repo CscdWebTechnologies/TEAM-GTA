@@ -1,0 +1,41 @@
+
+.firsth{
+    font-size: 62px;
+    font-weight: 600;
+    line-height: 1.15;
+    width: 343px;
+    height: 215px;
+   
+}
+
+.secondh{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.4;
+    margin-bottom: 32px}
+
+   .input1{
+       margin: 10px;
+       border:1px solid rgb(236, 239, 241); 
+       width: 270px;
+       height: 70px;
+       padding: 10px;
+   }
+
+   .button1{
+    width: 180px;
+    height: 70px;
+    font-weight: bolder;
+    font-size: larger;
+   }
+
+
+   .terms{fontSize:"70%" ;
+    textDecoration:"underline"}
+
+
+    .svg12{
+        
+        width:600px;
+        height: 590px;
+    }
